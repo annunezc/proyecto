@@ -1,6 +1,3 @@
-from utils import db_connect
-engine = db_connect()
-
 import json
 import joblib
 import pandas as pd
